@@ -1,17 +1,101 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🚀 I am a Bachelor of Engineering (IT) undergraduate at NBN Sinhgad Technical Institute Campus (SPPU), Pune, with a strong interest in software development, mobile applications, and real-world problem solving.<br><br>🔭 I’m currently working on  <br>- Mobile and full-stack projects using Flutter, Java, Firebase, and REST APIs  <br>- Building scalable applications with clean architecture and strong UI/UX focus  <br><br>👯 I’m looking to collaborate on  <br>- Flutter and React-based projects  <br>- Java backend systems and real-time applications  <br>- Hackathons, project competitions, and open-source contributions  <br><br>🤝 I’m looking for help with  <br>- Advanced Flutter and React architecture  <br>- Backend scalability and system design  <br>- Industry-level development best practices  <br><br>🌱 I’m currently learning  <br>- React.js for frontend development  <br>- Data Structures and Algorithms using Java  <br>- Backend integration and cloud services  <br><br>💬 Ask me about  <br>- Flutter, Firebase, and mobile app development  <br>- Java, JavaFX, and backend workflows  <br>- Project architecture and competition-ready solutions  <br><br>⚡ Fun fact  <br>I enjoy converting complex problem statements into clean, user-friendly applications 🚀<br>
+# 👋 Hi, I'm Pranav Amale
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranavv.amale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pranav Amale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavamale5@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranavamale1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pranavamale1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavamale1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Passionate Full Stack Developer | AI Enthusiast
+🎯 Focused on building real-world scalable applications
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranavamale1&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🔗 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/pranav-amale-210b2b342
+* 💻 GitHub: https://github.com/your-username
+
+---
+
+## 🧠 About Me
+
+* 🎓 Computer Engineering Student
+* 💡 Interested in AI + Full Stack Development
+* 🔥 Currently building: **AI Inspection Dashboard (Flynetics Inspired)**
+* 🎯 Goal: Crack top tech internship
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+* Java
+* C++
+* JavaScript
+* Dart
+
+---
+
+### 🌐 Frontend Development
+
+* HTML
+* CSS
+* React.js
+
+---
+
+### 📱 Mobile Development
+
+* Flutter
+
+---
+
+### 🗄️ Backend & Database
+
+* SQL
+* Firebase
+
+---
+
+### 🧪 Tools & Platforms
+
+* Postman
+* Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### 🧠 AI Inspection Dashboard
+
+* Built an AI-powered system for industrial inspection
+* Image-based crack detection simulation
+* Dashboard with analytics & reports
+* Tech: React, Node.js, PostgreSQL, Firebase
+
+---
+
+### 🏥 CareNexus
+
+* Healthcare platform for appointments & emergency services
+* Multiple modules: Patient, Doctor, Ambulance, Pharmacy
+
+---
+
+## 📊 GitHub Stats
+
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 What I’m Learning
+
+* Data Structures & Algorithms
+* System Design Basics
+* Advanced React & Backend
+
+---
+
+## 💬 Quote
+
+> “Building real-world projects is the fastest way to grow as a developer.”
+
+---
+
+⭐️ From Pranav Amale
